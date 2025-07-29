@@ -1,6 +1,10 @@
-# Sistema de Subastas en Tiempo Real
+# Distributed Auction System
 
 Un sistema distribuido de subastas en tiempo real implementado en Java que permite a múltiples clientes participar en subastas de productos mediante comunicación TCP y UDP.
+
+> **Nombre del Proyecto:** `distributed-auction-system`  
+> **Tecnología:** Java con comunicación TCP/UDP  
+> **Tipo:** Sistema distribuido concurrente
 
 ## 📋 Descripción
 
@@ -45,8 +49,8 @@ Este proyecto implementa un sistema de subastas distribuido que consta de:
 ### 1. Clonar o descargar el proyecto
 
 ```bash
-git clone <repository-url>
-cd TPC-entrega2B-main
+git clone https://github.com/tu-usuario/distributed-auction-system.git
+cd distributed-auction-system
 ```
 
 ### 2. Compilar el proyecto
@@ -125,11 +129,12 @@ timer.scheduleAtFixedRate(new TimerTask() {
 ## 📁 Estructura del Proyecto
 
 ```
-TPC-entrega2B-main/
+distributed-auction-system/
 ├── AuctionServer.java    # Servidor principal de subastas
 ├── AuctionClient.java    # Cliente de subastas
 ├── Product.java          # Modelo de datos del producto
 ├── AuctionItem.java      # Modelo de datos de la puja
+├── .gitignore           # Exclusiones de Git
 └── README.md            # Este archivo
 ```
 
