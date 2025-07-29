@@ -49,7 +49,7 @@ Este proyecto implementa un sistema de subastas distribuido que consta de:
 ### 1. Clonar o descargar el proyecto
 
 ```bash
-git clone https://github.com/tu-usuario/distributed-auction-system.git
+git clone https://github.com/CCamberoR/distributed-auction-system.git
 cd distributed-auction-system
 ```
 
