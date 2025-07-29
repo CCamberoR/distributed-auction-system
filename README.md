@@ -190,10 +190,6 @@ Este es un proyecto académico. Para contribuir:
 3. Implementa los cambios
 4. Envía un pull request
 
-## 📄 Licencia
-
-Proyecto académico - Ver detalles con el instructor del curso.
-
 ---
 
 **Nota**: Este sistema fue desarrollado como parte de un proyecto académico de Programación Concurrente y Distribuida (PCD).
